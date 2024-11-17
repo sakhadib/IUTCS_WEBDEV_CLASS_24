@@ -1,0 +1,21 @@
+.hero{
+    min-height: 50vh;
+    display: flex;
+    align-items: center;
+}
+
+.image-container{
+    display: flex;
+    justify-content: center;
+}
+
+
+.profile_pic{
+    width: 300px;
+    height: 300px;
+    border-radius: 50%;
+}
+
+.description{
+    text-align: justify;
+}
